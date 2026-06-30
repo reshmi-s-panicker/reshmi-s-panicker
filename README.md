@@ -21,7 +21,7 @@
 ## Connect with Me
 
 <p align="left">
-<a href="www.linkedin.com/in/reshmi-s-panicker">
+<a href="www.linkedin.com/in/reshmi-s-panicker-28b07922b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
