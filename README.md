@@ -59,17 +59,7 @@ Touch-free motor skill training platform for children using MediaPipe, OpenCV an
 
 ---
 
-##  GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=reshmi-s-panicker&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reshmi-s-panicker&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reshmi-s-panicker&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
